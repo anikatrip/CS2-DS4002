@@ -1,2 +1,2 @@
-# Vaccine Coverage and Political Party in the White House Case Study
+# Vaccines and Political Party Case Study
 This repository contains the materials (study, data, deliverable, and reference materials) to complete the data science case study.
